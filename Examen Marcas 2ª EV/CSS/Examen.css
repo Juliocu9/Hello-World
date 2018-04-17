@@ -1,0 +1,80 @@
+
+body {
+
+}
+
+header {
+	padding-bottom: 40px;
+	background-image: url(../Imagenes/fondoCabecera.gif);
+}
+
+header h1, h2 {
+	position: absolute;
+	color: white;
+}
+
+header h1 {
+	margin-top: 1px;
+	margin-left: 120px;
+} 
+
+header h2 {
+	margin-top: 50px;
+	margin-left: 120px;
+}
+
+nav {
+	float: left;
+	background-image: url(../Imagenes/degradoMenu.gif);
+	background-size: cover; 
+	padding-bottom: 450px;
+	padding-right: 20px;
+}
+
+section {
+	margin-top: 20px;
+	margin-left: 150px;
+}
+
+article video {
+	margin-left: 30%;
+	background-color: 
+}
+
+div {
+	float: left;
+	margin-right: 50px;
+}
+fieldset {
+	padding: 20px;
+	width: 800px;
+	margin:auto;
+
+}
+ul {
+    list-style-image: url(../Imagenes/ElementoMenu.gif);
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+footer {
+	background-color: #e8eff7;
+}
+
+.derecha {
+	float: right;
+}
+
+.barra {
+	margin-top: 14px;
+	padding-right: 100%;
+	float: left;
+}
+
+.bderecha {
+	margin-left: 1100px;
+}
+
